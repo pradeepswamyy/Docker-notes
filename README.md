@@ -1,4 +1,4 @@
-# Introduction to Docker: From Chaos to Containers
+# Introduction to Docker
 
 This README provides a technical overview of Docker fundamentals designed for beginners
 
