@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/docker/cli/master/docs/static_files/docker-logo.png" width="50" align="center"> Docker Fundamentals
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Pradeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-g2810/)
 
 
 ---
