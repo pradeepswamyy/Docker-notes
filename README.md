@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/docker/cli/master/docs/static_files/docker-logo.png" width="50" align="center"> Docker Fundamentals
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Educational-blue)
-![Theme](https://img.shields.io/badge/Theme-Docker_Blue-0db7ed)
+
 
 ---
 
